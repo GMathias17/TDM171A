@@ -12,7 +12,7 @@ namespace ProjProgVisual.Controllers
         private static IList<Category> categoryList =
             new List<Category>()
             {
-                new Category() { CategoryId = 1, Name = "Laptop" },
+                new Category() { CategoryId = 1, Name = "Laptops" },
                 new Category() { CategoryId = 2, Name = "Monitor" },
                 new Category() { CategoryId = 3, Name = "Keyboard" },
                 new Category() { CategoryId = 4, Name = "Mouse" },
