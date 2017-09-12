@@ -9,6 +9,6 @@ namespace ProjProgVisual.Models
     {
         public long CategoryId { get; set; }
 
-        public string Name1 { get; set; }
+        public string Name { get; set; }
     }
 }
